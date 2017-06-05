@@ -1,0 +1,186 @@
+html, body
+
+{
+
+	height:100%;
+	padding: 0px;
+	margin: 0px;
+	
+}
+.Inicio{
+		
+	position:absolute;
+
+	top: 50%;
+	
+	left:50%;
+	
+	transform: translate(-50%,-50%);
+	
+	width: 100%;
+
+	height:100%;
+	
+	background-color: yellow;
+	
+	font-family: Calibri;
+
+}
+
+.Menu_Inicio
+{	
+
+	position:absolute;
+
+	top: 40%;
+	
+	left:10%;
+	
+	transform: translate(-50%,-50%);
+	
+	width: 200px;
+
+	height:500px;
+	
+	
+	
+	border-style:solid;
+	
+	border-color: Gainsboro ;
+}
+.Menu_Inicio p
+
+{
+
+font-size:20px;
+
+color:white;
+
+padding: 20px;
+
+}
+.Contenido_Inicio
+{
+	position:absolute;
+
+	top: 40%;
+	
+	left: 60%;
+	
+	transform: translate(-50%,-50%);
+	
+	width: 800px;
+
+	height:500px;
+	
+	
+	
+	border-style: solid;
+	
+	
+}
+.Forest 
+{
+ 
+	position:absolute;
+
+	top: 19%;
+	
+	left: 31%;
+	
+	transform: translate(-50%,-50%);
+	
+	width: 400px;
+
+	height: 100px;
+	
+	
+
+}
+
+.Forest p
+{
+
+
+font-size: 50px;
+
+color:white;
+
+
+
+
+
+}
+.contenido_texto{
+	position:absolute;
+
+	top: 60%;
+	
+	left: 50%;
+	
+	transform: translate(-50%,-50%);
+	
+	width: 700px;
+
+	height: 300px;
+	
+	
+}
+.Inicio img
+{ 
+	width:100%;
+	height: 100%;
+}
+
+.Imagenes_Galeria
+{
+	position: absolute;
+	
+	
+	
+	width: 800px;
+
+	height: 300px;
+
+	
+	top: 105%;
+	
+	left: 0%;
+
+}
+.texto{
+	color: white;
+	font-size: 24px;
+}
+.Imagen1{
+	position: absolute;
+
+	top: 135%;
+	
+	left: 20%;
+	
+	transform: translate(-50%,-50%);
+	
+	width: 250px;
+
+	height: 250px;
+	
+	
+	
+}
+.Imagen2{
+	position: absolute;
+
+	top: 135%;
+	
+	left: 80%;
+	
+	transform: translate(-50%,-50%);
+	
+	width: 250px;
+
+	height: 250px;
+	
+	
+	
+}
